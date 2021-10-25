@@ -4,8 +4,8 @@
 The purpose of this repository is to demonstrate a working level of proficiency with infrastructure-as-code.
 
 ## Rules
-* Think like a developer (branching, pull/merge requests).
-* Dedicate no more than two hours to this exercise in it's entirety.
+* Think like a developer.
+* Dedicate no more than two hours to this exercise.
 * Don't obsess over perfection.
 * Accomplish what you can while considering and using good judgement and best practices.
 
